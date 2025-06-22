@@ -2,7 +2,6 @@
 
 > Fun trivia inspired by the subreddits you love! Decode emojis, test your Reddit knowledge, and climb the leaderboards.
 
-![KarmaQuiz Logo](https://your-image-link.com) <!-- Optional logo/banner -->
 
 ---
 
