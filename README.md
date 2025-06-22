@@ -1,7 +1,8 @@
+
+
 # 🎯 KarmaQuiz
-
 > Fun trivia inspired by the subreddits you love! Decode emojis, test your Reddit knowledge, and climb the leaderboards.
-
+> Built as a submission for the Reddit Games and Puzzles Hackathon
 
 ---
 
